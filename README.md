@@ -1,3 +1,3 @@
 # google-homepage
 
-This is a project in The Odin Project's Full Stack Developer Course
+This is part of the Odin Project course where you are supposed to recreate the google.com homepage using HTML and CSS.
